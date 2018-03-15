@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mvp-material.iml" filepath="$PROJECT_DIR$/mvp-material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpmaterial/mvpmaterial.iml" filepath="$PROJECT_DIR$/mvpmaterial/mvpmaterial.iml" />
+    </modules>
+  </component>
+</project>
